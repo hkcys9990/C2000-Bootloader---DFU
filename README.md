@@ -1,5 +1,5 @@
 # C2000 Bootloader & DFU
-C2000 Bootloader and deivce field upgrade, Firmware(C) and Software(C#)
+C2000 - F280039C Bootloader and deivce field upgrade, Firmware(C) and Software(C#)
 
 # Introduction
 # Ordinary MCU code without bootloader
