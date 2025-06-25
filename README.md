@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/043a4112-82c6-45d2-bf22-c1d6d9b1c71b)
 # C2000 Bootloader & DFU
 C2000 Bootloader and deivce field upgrade, Firmware(C) and Software(C#)
 
