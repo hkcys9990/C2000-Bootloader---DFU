@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\c2000_serialcommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:c2000_serialcommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|d:\\project\\c2000 bootloader\\c2000_bootloader_c#\\c2000_bootloader\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|d:\\project\\c2000 bootloader\\c2000_bootloader_c#\\c2000_bootloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|d:\\project\\c2000 bootloader\\c2000_bootloader_c#\\c2000_bootloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97260A39-9D78-4AF3-85A5-4226E0F37966}|C2000_BootLoader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-25T16:14:24.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:07:15.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C2000_SerialCommunication.cs",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\C2000_SerialCommunication.cs",
+              "RelativeDocumentMoniker": "C2000_SerialCommunication.cs",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\C2000_SerialCommunication.cs",
+              "RelativeToolTip": "C2000_SerialCommunication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:26:13.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAuwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:26:13.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:26:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Project\\C2000 Bootloader\\C2000_BootLoader_C#\\C2000_BootLoader\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:26:13.464Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
