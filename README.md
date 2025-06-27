@@ -37,7 +37,7 @@ Then, it will jump to the application code area.
 1. the compiled file format is .out and cannot directly applied on DFU, we need to convert to .txt.
 2. Copy the compiled .out file to a folder with hex2000.exe
    ![image](https://github.com/user-attachments/assets/544effbe-df7e-4cc5-b783-666263b92e29)
-3. Open the cmd in the same file location. Run “hex2000.exe –boot –sci8 –a –o <output file.txt> <input file.out>”
+3. Open the cmd in the same file location. Run “hex2000.exe –boot –sci8 –a –o "output file.txt" "input file.out"”
    ![image](https://github.com/user-attachments/assets/bf008e02-39a1-4242-be0b-981cd63403e3)
 4. Then, a txt file is generated.
    
