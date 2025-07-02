@@ -49,10 +49,10 @@ The project is using LAUNCHXL-F280039C to demonstrate the bootloader firmware fu
 ![image](https://github.com/user-attachments/assets/ed83fd24-0cfa-4f68-84ae-8efe955ec223)
 
 1. Open the C2000 DFU Tool, click Browse and choose the app fw in txt format.
-2. Plug in the USB, and lanuchpad power on
-3. Press refresh and choose the lanuchpad COM port and press “connect”.
+2. Plug in the USB, and launchpad power on
+3. Press refresh and choose the launchpad COM port and press “connect”.
 4. Press “DFU Start” to start the firmware upgrade
-5. If lanuchpad without any DFU request for 10s after bootup, lanuchpad will boot to the application fw (address: 0x83000)
+5. If launchpad without any DFU request for 10s after bootup, launchpad will boot to the application fw (address: 0x83000)
 
 ![image](https://github.com/user-attachments/assets/cf3f9d30-c5fc-4216-8cc4-b2d4d271d0fe)
 
